@@ -43,7 +43,7 @@ E.g.
 
 ## Crawler.RequestHandling.Core
 
-Core library to manage Request Throttling. Target websites should be over-loaded with requests (resulting in a denial-of-service). Instead requests should be throttled.
+Core library to manage Request Throttling. Target websites should NOT be over-loaded with requests (resulting in a denial-of-service). Instead requests should be throttled.
 
 ## Crawler.Management.Core
 
