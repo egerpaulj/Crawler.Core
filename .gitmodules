@@ -31,3 +31,7 @@
 	path = Microservice.Grpc
 	url = https://github.com/egerpaulj/Microservice.Grpc.git
 	branch = main
+[submodule "Microservice.DataModel.Core"]
+	path = Microservice.DataModel.Core
+	url = https://github.com/egerpaulj/Microservice.DataModel.Core.git
+	branch = main
