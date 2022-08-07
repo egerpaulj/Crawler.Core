@@ -6,7 +6,6 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\Crawler.Core\Crawler.Core.csproj" />
     <ProjectReference Include="..\Crawler.DataModel\Crawler.DataModel.csproj" />
   </ItemGroup>
 

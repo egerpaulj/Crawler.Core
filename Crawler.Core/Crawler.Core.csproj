@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Caching.Core\Caching.Core.csproj" />
+    <ProjectReference Include="..\Caching\Caching.Core\Caching.Core.csproj" />
   </ItemGroup>
 
 </Project>

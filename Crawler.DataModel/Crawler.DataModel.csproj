@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Microservice.DataModel.Core\Microservice.DataModel.Core.csproj" />
+    <ProjectReference Include="..\..\Microservice.DataModel.Core\Microservice.DataModel.Core.csproj" />
     <ProjectReference Include="..\Crawler.Core\Crawler.Core.csproj" />
   </ItemGroup>
   <ItemGroup>
