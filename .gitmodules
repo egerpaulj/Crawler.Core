@@ -27,11 +27,14 @@
 	path = Caching
 	url = https://github.com/egerpaulj/Caching.git
 	branch = main
+	update = rebase
 [submodule "Microservice.Grpc"]
 	path = Microservice.Grpc
 	url = https://github.com/egerpaulj/Microservice.Grpc.git
 	branch = main
+        update = rebase
 [submodule "Microservice.DataModel.Core"]
 	path = Microservice.DataModel.Core
 	url = https://github.com/egerpaulj/Microservice.DataModel.Core.git
 	branch = main
+        update = rebase
